@@ -1,0 +1,92 @@
+* body {
+    margin: 0%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:#927dfc; 
+}
+
+h1 {
+    position: relative;
+    left: 100px;
+    margin: 20px 20px;
+    font-family: sans-serif;
+}
+
+.div1 {
+    position: relative;
+    top: 70px;
+    background-color: #fff; 
+    width: 700px;
+    height: 32em;
+    border-radius: 10px;
+}
+
+#inputt {
+    margin: 20px 20px;
+    border-radius: 10px;
+    width: 500px;
+    height: 4em;
+    border-color: aliceblue;
+    background: transparent;
+    border: rgba(255, 255, 255, .2);
+    background-color: aliceblue;
+    box-shadow: 0 0 10px rgb(0, 0, -2);
+    border: none;
+    position: relative;
+    left: 70px;
+
+}
+
+#inp2 {
+height: 30px;
+    border-radius: 7px;
+    margin: 20px 20px;
+    border: rgba(255, 255, 255, .2);
+    box-shadow: 0 0 10px rgb(0, 0, -2);
+    background-color: aliceblue;
+    position: relative;
+    top: -15px;
+    left: 205px;
+}
+
+p {
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    position: relative;
+    left: 185px;
+    font-family: sans-serif;
+
+}
+
+.buttonn {
+    width: 200px;
+    height: 45px;
+    position: relative;
+    top: -72px;
+    left: 90px;
+    background: #03A4ED;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, -2);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+}
+
+.button2 {
+    border-radius: 10px;
+    background: #03A4ED;
+    margin: 150px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    box-shadow: 0 0 10px rgb(0, 0, -2);
+    width: 200px;
+    height: 45px;
+    position: relative;
+    top: -72px;
+}
